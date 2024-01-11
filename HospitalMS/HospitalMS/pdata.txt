@@ -1,0 +1,5 @@
+132;Abdulrhman ;20;Male;Monofia;0908978
+55;Ahmed;20;Male;Alexandaria;48758967596
+45;Abdulrhman Mahmoud;20;Male;Sohag;7987976
+99;Abdulrhman Mogazy;20;Male;Kafr-Elshiekh;807596895
+6;Mariam;4;female;cairo;3456
